@@ -64,7 +64,7 @@ Finally, one can add underlying stocks in the strategy (positive to *buy* or neg
 Click on "*Add Option*". Then go back to the top of the page, you can see your portfolio strategy has been updated.
 
 <p align="center">
-<img src=![alt text](https://github.com/yonihassine/Option-Combination-Strategies/img/ptfupdate.png" />
+<img src=![alt text](https://github.com/yonihassine/Option-Combination-Strategies/img/ptfupdate.png?raw=true" />
 </p>
 
 <br/><br/>
