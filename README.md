@@ -79,7 +79,7 @@ Now assume we want to delta hedge the position. We see that the delta of the por
 Hence, we need to short sell 54 stocks to be delta hedged.
 
 <p align="center">
-<img src="img/deltastock.png" />
+<img src="https://github.com/yonihassine/Option-Combination-Strategies/blob/main/img/100call.PNG" />
 </p>
 
 <br/><br/>
