@@ -61,8 +61,7 @@ Finally, one can add underlying stocks in the strategy (positive to *buy* or neg
 
 
 <p align="center">
-<img src="img/100call.png"
-     alt="Markdown Monster icon" />
+<img src="https://github.com/yonihassine/Option-Combination-Strategies/blob/main/img/100call.PNG" />
 </p>
 
 <br/><br/>
@@ -70,7 +69,7 @@ Finally, one can add underlying stocks in the strategy (positive to *buy* or neg
 Click on "*Add Option*". Then go back to the top of the page, you can see your portfolio strategy has been updated.
 
 <p align="center">
-<img src=![alt text](https://github.com/yonihassine/Option-Combination-Strategies/img/ptfupdate.png?raw=true" />
+<img src="https://github.com/yonihassine/Option-Combination-Strategies/blob/main/img/ptfupdate.PNG" />
 </p>
 
 <br/><br/>
@@ -79,7 +78,7 @@ Now assume we want to delta hedge the position. We see that the delta of the por
 Hence, we need to short sell 54 stocks to be delta hedged.
 
 <p align="center">
-<img src="https://github.com/yonihassine/Option-Combination-Strategies/blob/main/img/100call.PNG" />
+<img src="https://github.com/yonihassine/Option-Combination-Strategies/blob/main/img/deltastock.PNG" />
 </p>
 
 <br/><br/>
@@ -91,13 +90,13 @@ Finally, you can add complementary stress. On top of the variations of the under
 Here is an example for the instantaneous P&L and Gamma and the shifted P&L and Delta in 6 days with -6.62% move in implied vol.
 
 <p align="center">
-<img src="img/gamma.png" />
+<img src="https://github.com/yonihassine/Option-Combination-Strategies/blob/main/img/gamma.PNG" />
 </p>
 
 <br/><br/>
 
 <p align="center">
-<img src="img/plots.png" />
+<img src="https://github.com/yonihassine/Option-Combination-Strategies/blob/main/img/plots.PNG" />
 </p>
 
 <br/><br/>
