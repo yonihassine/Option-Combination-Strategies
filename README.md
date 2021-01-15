@@ -1,6 +1,6 @@
 # Option Combination Strategies
 
-OPC (Option Combination Strategies) is a powerful pricing tool for options combination strategies, wich calculates instantaneous greeks and P&L with interactive plots using Bokeh server. 
+OCS (Option Combination Strategies) is a powerful pricing tool for options combination strategies, wich calculates instantaneous greeks and P&L with interactive plots using Bokeh server. 
 
 
 ## Getting Started
