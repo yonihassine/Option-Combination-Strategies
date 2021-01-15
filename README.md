@@ -17,7 +17,9 @@ pip install bokeh
 
 ### Launch the Bokeh Server
 
-To run the app on a Bokeh server, we execute:
+First, make sure to be in the working directory where the tool Option-Combination-Strategies is saved.
+
+Then run the app on a Bokeh server, execute:
 
 ```
 bokeh serve --show strat_server.py
