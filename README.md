@@ -52,7 +52,7 @@ Finally, one can add underlying stocks in the strategy (positive to *buy* or neg
 
 *Here is an example to create a strategy on Apple Inc. stock which is traded on the NASDAQ. This strategy will* 
 *consist in buying 100 call options with maturity 3 months (April 16th 2021, ie 91 days) and strike 130 (ie ATM options given the current spot price). We assume the risk free rate to be 0.20%.*
-
+![alt text](https://github.com/yonihassine/Option-Combination-Strategies/blob/main/img/100call.PNG)
 
 <p align="center">
 <img src="img/100call.png"
