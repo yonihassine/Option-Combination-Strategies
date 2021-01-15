@@ -128,7 +128,7 @@ assert round(my_Strategy.price(1900), 3) == 18.226
 You can run the automated tests with the command line:
 
 ```
-test_Mytest.py
+pytest test_Mytest.py
 ```
 
 
